@@ -6,3 +6,11 @@ A professional portfolio page, being used to showcase my coding projects.
 A short list of some school projects I'm proud of, while I find some of my more recent endeavors to list here.
 
 - [DD Project](https://github.com/121Eagle/ddProject)
+
+## Personal Projects
+These are projects I've completed or contributed to, either for my own use or because I believe in them.
+
+## Training Exercises
+Another list of projects, but these are some exercises I did to keep my skills sharp.
+
+- [Robot Name](https://github.com/121Eagle/exercism_exercise_csharp_robot-name)
